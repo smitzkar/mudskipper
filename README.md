@@ -1,2 +1,2 @@
 # mudskipper
-Ideas for Mudskipper website
+Ideas for mudskipper website
